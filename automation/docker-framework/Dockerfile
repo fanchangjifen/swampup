@@ -1,4 +1,4 @@
-FROM jfrog.local:5002/ubuntu:latest
+FROM 10.110.5.19:8081/docker/ubuntu:latest
 
 MAINTAINER Stanley Fong stanleyf@jfrog.com
 
